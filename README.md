@@ -23,7 +23,7 @@ Identifying the countries which have been the most heavily invested in the past.
 Understanding the distribution of investments across the eight main sectors. 
 
 # Privacy Statement
-#Non disclosure of information
+# Non disclosure of information
 ## I have not disclosed any client information or organizational information to the best of my knowledge
  
 # Non usage of official assets
