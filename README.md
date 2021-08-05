@@ -22,12 +22,8 @@ Identifying the countries which have been the most heavily invested in the past.
 ## Sector analysis:
 Understanding the distribution of investments across the eight main sectors. 
 
-# Privacy Statement
-# Non disclosure of information
-## I have not disclosed any client information or organizational information to the best of my knowledge
- 
-# Non usage of official assets
-## Organizational assets are not used for personal purposes
-
-# Non moneterial information
-## this project is only for personal verification purpose and not for any moneterial benifits
+<br><br><br>
+## Privacy Statement: 
+1. I have not disclosed any information regarding the business clients of my organization or the revenue 
+2. I have not used any official asset for this project
+3. This project is only for non moneterial purposes
